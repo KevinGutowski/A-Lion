@@ -1,0 +1,36 @@
+{
+  "commands" : [
+      {
+          "script" : "script.js",
+          "handler" : "go",
+          "shortcut" : "",
+          "name" : "🦁 A Lion Layers",
+          "identifier" : "AlignTo_Main"
+      },
+      {
+          "script": "script.js",
+          "handlers": {
+              "actions": {
+                  "Startup" : "go",
+				  "SelectionChanged.begin" : "go"
+              }
+          }
+      }
+  ],
+  "menu": {
+      "items": [
+          "AlignTo_Main"
+      ],
+	  "isRoot" : true
+  },
+  "identifier" : "com.kevingutowski.AlignTo",
+  "version" : "0.1",
+  "icon" : "icon.png",
+  "description" : "Align your layers to a key object.",
+  "authorEmail" : "kevin@gradescope.com",
+  "author" : "Kevin Gutowski",
+  "name" : "A Lion",
+  "disableCocoaScriptPreprocessor" : true,
+  "homepage" : "",
+  "appcast" : ""
+}
