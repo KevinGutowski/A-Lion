@@ -32,5 +32,5 @@
   "name" : "A Lion",
   "disableCocoaScriptPreprocessor" : true,
   "homepage" : "https://github.com/KevinGutowski/A-Lion",
-  "appcast" : "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml?token=ABABHAH3HROYYDBO4XTXQI26YDJGK"
+  "appcast" : "https://raw.githubusercontent.com/KevinGutowski/A-Lion/master/appcast.xml"
 }
