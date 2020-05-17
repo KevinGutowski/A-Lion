@@ -8,7 +8,9 @@ A sketch plugin to align your layers to a key layer.
 
 ### Credits
 
-Huge thanks to Aby ([@abynim](https://github.com/abynim)) for his help with this plugin. 🙌
+Huge thanks to Aby ([@abynim](https://twitter.com/abynim)) for his help with this plugin. 🙌
+
+Icon is by [Matt Skiles](https://twitter.com/matthewskiles). The lion is so good!!
 
 ### Other plugins
 
