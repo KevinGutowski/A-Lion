@@ -1,4 +1,4 @@
-# A Lion
+# 🦁 A Lion
 
 A Sketch plugin to align your layers to a key layer.
 
