@@ -24,7 +24,7 @@
 	  "isRoot" : true
   },
   "identifier" : "com.kevingutowski.AlignTo",
-  "version" : "0.1",
+  "version" : "0.1.0",
   "icon" : "icon.png",
   "description" : "Align your layers to a key object.",
   "authorEmail" : "kevin@gradescope.com",
