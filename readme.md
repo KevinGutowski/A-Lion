@@ -17,7 +17,7 @@ Download the contents of this repository, then double-click the `AlignTo.sketchp
 
 ### Tips
 1. You can use the arrow keys on your keyboard to quickly change the selected layer (Up/Down arrows) and the alignment type (Left/Right arrows)
-2. If you just select two layers and you want to quickly invert the key object, hold down control when selecting an alignment type.
+2. If you just select two layers and you want to quickly invert the key object, hold down control when selecting an alignment type. If you select more than two layers the plugin window will be shown allowing you to specify a key layer.
 
 ![image](https://github.com/KevinGutowski/A-Lion/blob/master/preview_images/preview2.gif?raw=true)
 
